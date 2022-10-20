@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" return TODO list """
+""" returns TODO list """
 
 
 import json
